@@ -12,3 +12,5 @@ function removeActiveClasses(){
         panel.classList.remove('active')
     })
 }
+
+alert("welcome to my website")
